@@ -56,7 +56,7 @@ Scikit-learn
 
 Seaborn, Matplotlib
 
-🔄 Workflow Summary
+🔄 Workflow Summary: 
 Data Loading
 
 Exploratory Data Analysis (EDA)
