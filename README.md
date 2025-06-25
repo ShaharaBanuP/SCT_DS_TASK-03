@@ -2,10 +2,11 @@
 
 This project focuses on predicting whether a customer will subscribe to a term deposit product based on various demographic and behavioral attributes. The prediction is performed using a Decision Tree Classifier.
 
-📌 Objective
+## 📌 Objective
+
 To help financial institutions identify potential customers more likely to respond positively to a marketing campaign, thereby improving targeting efficiency and campaign success.
 
-📂 Dataset Details
+### 📂 Dataset Details
 Source: UCI Machine Learning Repository – Bank Marketing Dataset
 
 Total Records: 45,211
@@ -16,7 +17,7 @@ Target Variable:
 
 y: Whether the client subscribed to a term deposit (binary: yes or no)
 
-Key Features Include:
+#### Key Features Include:
 age: Age of the client
 
 job: Type of job
@@ -47,7 +48,7 @@ previous: Number of contacts before this campaign
 
 poutcome: Outcome of the previous campaign
 
-🧰 Tools & Libraries Used
+## 🧰 Tools & Libraries Used
 Python
 
 Pandas, NumPy
@@ -56,7 +57,7 @@ Scikit-learn
 
 Seaborn, Matplotlib
 
-🔄 Workflow Summary: 
+## 🔄 Workflow Summary: 
 Data Loading
 
 Exploratory Data Analysis (EDA)
@@ -73,7 +74,7 @@ Model Evaluation using Accuracy, Confusion Matrix, and Classification Report
 
 Decision Tree and Confusion Matrix Visualization
 
-📊 Outcome
+## 📊 Outcome
 The final model provides:
 
 Clear interpretation of decision rules using a decision tree
